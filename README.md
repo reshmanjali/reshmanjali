@@ -1,6 +1,6 @@
-- 👋 Hi, I’m sai reshmanjali
+- 👋 Hi, I’m Sai Reshmanjali
 - 👀 I’m interested in building anything that helps people
-- 🌱 I’m currently learning databases adn data security
+- 🌱 I’m currently learning databases and data security
 - 💞️ I’m looking to collaborate on Android or any projects in general
 - 📫 How to reach me - LinkedIn would be a great way - https://www.linkedin.com/in/reshmanjali-guntupalli/
 
